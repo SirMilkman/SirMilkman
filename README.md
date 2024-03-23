@@ -1,7 +1,5 @@
-hi i make video games
+i am sirmilkman
 
-squash and stretch enthusiast 
+humanoid freeware gamedev extraordinaire 
 
-the games: https://sirmilkman.itch.io/
-the tweet: https://twitter.com/sirmilkman_/
-the colab: https://paradise-collab.itch.io/
+visit sirmilkman.com for more of my stuff
